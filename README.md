@@ -7,7 +7,7 @@ Load javascript, add this to your html code:
 
 ```html
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="https://raw.githubusercontent.com/mayhewsw/bibtex-parser/master/parse-bibtex.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/mayhewsw/bibtex-js/master/bibtex.js"></script>
 ```
 
 Put bibtex input into a (hidden) textarea:
@@ -56,5 +56,4 @@ When class `if` is listed, the html element is only displayed if all fields list
 ## Credits
 (c) 2010 Henrik Muehe.  MIT License
 
-Earlier port  by Mikola Lysenko
-Latest version by Stephen Mayhew
+Exported to Github and updated by Stephen Mayhew
