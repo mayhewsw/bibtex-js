@@ -7,6 +7,8 @@ bibtex-js can parse a BibTeX-file and render it as part of an HTML file. This wa
 * Fast parser written in pure javascript (parser is in O(n))
 * No setup required, drop-in solution
 
+Note: this project is originally from https://code.google.com/p/bibtex-js/.
+
 
 ## How to get BibTeX-js up and running.
 
